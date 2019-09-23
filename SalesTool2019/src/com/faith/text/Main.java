@@ -14,7 +14,7 @@ public class Main {
 	
 	private static void displayGreetings()
 	{
-		System.out.println("welcome to Sales Report  29...");
+		System.out.println("Welcome to Sales Report  29...");
 	}
 
 }
