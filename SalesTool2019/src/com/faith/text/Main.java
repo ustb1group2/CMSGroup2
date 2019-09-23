@@ -15,7 +15,7 @@ public class Main {
 	private static void displayGreetings()
 	{
 		System.out.println("Welco to Sales guys!!!!29...");
-		System.out.println("Changes uploading..");
+		System.out.println("Change uploading..");
 	}
 
 }
